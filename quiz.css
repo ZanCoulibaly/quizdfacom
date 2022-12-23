@@ -44,14 +44,16 @@ img {
 
 #question {
     margin-bottom: 1rem;
+    color: #fff;
 }
 
 .option {
     margin-bottom: 0.5rem;
     font-size: 1.2rem;
     border-bottom: solid 0.1rem white;
-    width: 15rem;
-    background: lightblue;
+    width: auto;
+    color: #fff;
+    background: rgb(235, 173, 173);
     border-radius: 1rem;
 }
 
