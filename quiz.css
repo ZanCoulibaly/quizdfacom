@@ -40,8 +40,6 @@ img {
     background: rgba(47, 48, 48, 0.45);
     cursor: default;
     border-radius: 1rem;
-    margin-left: 0 auto;
-    margin-right: 0 auto;
 }
 
 #question {
@@ -55,7 +53,6 @@ img {
     width: 15rem;
     background: lightblue;
     border-radius: 1rem;
-    margin-right: 0 auto;
 }
 
 .option:hover {
