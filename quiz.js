@@ -16,7 +16,7 @@ var questionBank = [{
     },
     {
         question: 'Où est situé DFA ?',
-        option: ['Au Sité de Niger P235 R52', 'A Kalaban coura près du station total', 'Ku-Klux-Klan', 'Hamdallaye ACI 2000'],
+        option: ['Au Sité de Niger P235 R52', 'Kalaban coura près du station total', 'Sotuba ACI', 'Hamdallaye ACI 2000'],
         answer: 'Hamdallaye ACI 2000'
     },
     {
