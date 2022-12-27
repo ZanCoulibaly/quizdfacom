@@ -45,6 +45,7 @@ img {
 #question {
     margin-bottom: 1rem;
     color: #fff;
+    cursor: pointer;
 }
 
 .option {
@@ -133,4 +134,16 @@ button:active {
 
 #answers {
     margin-top: 1rem;
+}
+
+@keyframes zoom0 {
+    0% {
+        transform: scale(1, 1);
+    }
+    50% {
+        transform: scale(1.5, 1.5);
+    }
+    100% {
+        transform: scale(1, 1);
+    }
 }

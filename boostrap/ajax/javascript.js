@@ -59,8 +59,11 @@ function calcScore(e) {
         document.getElementById(e.id).style.background = 'green';
     } else {
         document.getElementById(e.id).style.background = 'red';
+
     }
-    setTimeout(nextQuestion, 3000);
+    setTimeout(nextQuestion, 2000);
+
+
 }
 
 //function to display next question
